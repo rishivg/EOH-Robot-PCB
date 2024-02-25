@@ -1831,7 +1831,7 @@
     (pin "5" (uuid f2479d38-a9db-4b32-9fc3-0bdf10ed8a28))
     (pin "6" (uuid 2c78dbf8-1676-460e-b7b6-abf472d4acb9))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "J108") (unit 1)
         )
@@ -1848,7 +1848,7 @@
     (property "Value" "Teensy4.1" (at 88.773 17.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "MCU_Teensy:Teensy_4.1" (at 68.453 128.905 0)
+    (property "Footprint" "MCU_Teensy:Teensy41_bare_pins" (at 68.453 128.905 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.pjrc.com/store/teensy41.html" (at 69.723 126.365 0)
@@ -1906,7 +1906,7 @@
     (pin "34" (uuid 5e5964c1-42f2-4e30-bff8-260d78879cdf))
     (pin "4" (uuid 55937028-7375-4963-b27e-a5794d19372a))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "U101") (unit 1)
         )
@@ -1936,7 +1936,7 @@
     )
     (pin "1" (uuid 0c39baba-44b9-4de1-ad32-bde926a30a3b))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0115") (unit 1)
         )
@@ -1962,7 +1962,7 @@
     (pin "1" (uuid 4c02d3e0-407d-43e2-ab2e-5c0b96df13f6))
     (pin "2" (uuid ba4640e3-9359-4f09-af4d-86c722716adb))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "J105") (unit 1)
         )
@@ -1987,7 +1987,7 @@
     )
     (pin "1" (uuid 2f1c1beb-9973-4c88-80b5-ab10ca4a2950))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0101") (unit 1)
         )
@@ -2017,7 +2017,7 @@
     (pin "5" (uuid a306116f-cc97-425d-8141-102c901ddbb3))
     (pin "6" (uuid 5ba0aec8-eaac-4029-818d-fe668153034f))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "J109") (unit 1)
         )
@@ -2042,7 +2042,7 @@
     )
     (pin "1" (uuid a03e04e4-d8df-42eb-bef7-2ae244a33bf6))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0111") (unit 1)
         )
@@ -2067,7 +2067,7 @@
     )
     (pin "1" (uuid 33f6f6f6-ad07-49d0-8a30-f4efaf6aee88))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0112") (unit 1)
         )
@@ -2092,7 +2092,7 @@
     )
     (pin "1" (uuid 0f71753c-6f61-4371-af23-f656dcc953bc))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0113") (unit 1)
         )
@@ -2120,7 +2120,7 @@
     (pin "3" (uuid d42fddaf-27cd-4b71-b493-2b63fef48d7d))
     (pin "4" (uuid 15898a83-376a-4329-b516-f57e80a70e98))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "J101") (unit 1)
         )
@@ -2145,7 +2145,7 @@
     )
     (pin "1" (uuid d4806d93-270b-4590-a231-8c47ebff6910))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0114") (unit 1)
         )
@@ -2171,7 +2171,7 @@
     (pin "1" (uuid 5cecc302-9888-4352-b829-16ba05d24258))
     (pin "2" (uuid 01f626de-bfa7-4491-bbf9-1a7b56d1cdca))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "J106") (unit 1)
         )
@@ -2196,7 +2196,7 @@
     )
     (pin "1" (uuid ffeaec25-a84e-46a2-9f32-4eb37fd03d1f))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0110") (unit 1)
         )
@@ -2221,7 +2221,7 @@
     )
     (pin "1" (uuid 3dbfe979-984c-4e2f-80cb-d413e9a675cc))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0109") (unit 1)
         )
@@ -2249,7 +2249,7 @@
     (pin "3" (uuid 0b419794-76cb-478f-9e36-3b71781ee0c4))
     (pin "4" (uuid 69d9a1ab-525a-436a-be37-1725a20c1678))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "J104") (unit 1)
         )
@@ -2274,7 +2274,7 @@
     )
     (pin "1" (uuid 048cb8f0-7204-4779-9516-2b2d39dcf023))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0108") (unit 1)
         )
@@ -2299,7 +2299,7 @@
     )
     (pin "1" (uuid 44e6b311-26ba-4c55-aebc-ecf89b252feb))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0106") (unit 1)
         )
@@ -2324,7 +2324,7 @@
     )
     (pin "1" (uuid 43e9c9d4-24f2-4b0e-a62a-e8786d64c641))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0104") (unit 1)
         )
@@ -2354,7 +2354,7 @@
     )
     (pin "1" (uuid 287e174b-6a9c-4270-b2ad-666b855b22bd))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0107") (unit 1)
         )
@@ -2379,7 +2379,7 @@
     )
     (pin "1" (uuid e875fe09-6719-4b7e-8199-1a700e6a5cd7))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0117") (unit 1)
         )
@@ -2449,7 +2449,7 @@
     (pin "8" (uuid 12e94d4d-770f-4c98-86da-cf8ad7444318))
     (pin "9" (uuid f09a1818-d77e-492e-a79f-20ab59052605))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "U104") (unit 1)
         )
@@ -2474,7 +2474,7 @@
     )
     (pin "1" (uuid a6576eb3-9e9e-493b-8867-ee90ea3511ca))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0116") (unit 1)
         )
@@ -2503,7 +2503,7 @@
     (pin "4" (uuid ed158c35-bf71-47f4-8b93-7119ee4a3031))
     (pin "5" (uuid 4a6cd8f4-c6e8-434f-85cb-7af46721121b))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "U103") (unit 1)
         )
@@ -2557,7 +2557,7 @@
     (pin "B9" (uuid f8dfa1b7-06cc-49b3-ba05-b58e3f253981))
     (pin "S1" (uuid 6782b683-34e7-46fd-ac45-6f9b2f6ee5a7))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "J110") (unit 1)
         )
@@ -2583,7 +2583,7 @@
     (pin "1" (uuid c6f246a1-ea9e-4b6b-bff9-cc387b8a3ab5))
     (pin "2" (uuid e8610a63-d025-4c3f-a51a-02e4c676ca29))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "R104") (unit 1)
         )
@@ -2613,7 +2613,7 @@
     )
     (pin "1" (uuid 13534174-9a25-4c93-9afe-10f4f0f44aad))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0102") (unit 1)
         )
@@ -2641,7 +2641,7 @@
     (pin "3" (uuid 876ea36b-d501-44e8-9362-8a7454d63dcb))
     (pin "4" (uuid d41136e9-46f3-4383-8e64-9c02263cf8cd))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "J102") (unit 1)
         )
@@ -2669,7 +2669,7 @@
     (pin "3" (uuid 006fab79-b728-47f8-87ca-daa23040b1e5))
     (pin "4" (uuid 9b51f4de-1d65-4ad4-b55f-ac1f4afe5f2e))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "J103") (unit 1)
         )
@@ -2694,7 +2694,7 @@
     )
     (pin "1" (uuid e4a23dd9-4005-4531-b010-dd2e5b27add5))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0118") (unit 1)
         )
@@ -2725,7 +2725,7 @@
     (pin "1" (uuid d43c2907-8c53-4ca7-b475-f54e9e137553))
     (pin "2" (uuid e7dd159a-30ca-4059-860f-421eda7eab86))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "J107") (unit 1)
         )
@@ -2750,7 +2750,7 @@
     )
     (pin "1" (uuid 1f634de2-a200-49a3-8466-2a5c06d3100e))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "#PWR0105") (unit 1)
         )
@@ -2776,7 +2776,7 @@
     (pin "1" (uuid 6ad3a75b-a778-4042-8f7c-295b5df4d87b))
     (pin "2" (uuid 94751b62-2bb2-4eb7-835b-6d08c2e01c65))
     (instances
-      (project "power"
+      (project "PowerBoard"
         (path "/0d766aee-3212-42a6-9533-08f4b759e61c"
           (reference "D101") (unit 1)
         )
